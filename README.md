@@ -21,7 +21,7 @@ __Null Hypothesis__: The mean number of goals scored in women's international so
 __Alternative Hypothesis__: The mean number of goals scored in women's international soccer matches is greater than men's.
 
 ## 🔍 Results and Findings
-1. There are 44,353 observations in the [men results dataset](men_results.csv) and 4884 observations in the [women results dataset](women_results).
+1. There are 44,353 observations in the [men results dataset](men_results.csv) and 4884 observations in the [women results dataset](women_results.csv).
 2. For hypothesis testing, the datasets are filtered to only work on FIFA World Cup tournaments from year 2022 onwards. The filtered data consists of 384 observations in men dataset and 200 observations in women dataset.
 3. The distribution of total number of goals scored in FIFA World Cup by men and women does not follow a normal distribution.
 4. A non-parametric test called the __Wilcoxon-Mann-Whitney test__ is used for this hypothesis testing.

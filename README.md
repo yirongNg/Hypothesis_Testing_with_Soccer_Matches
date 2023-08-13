@@ -17,6 +17,7 @@ The question you are trying to determine the answer to is:
 You assume a __10% significance level__, and use the following null and alternative hypotheses:
 
 __Null Hypothesis__: The mean number of goals scored in women's international soccer matches is the same as men's.
+
 __Alternative Hypothesis__: The mean number of goals scored in women's international soccer matches is greater than men's.
 
 ## 🔍 Results and Findings
